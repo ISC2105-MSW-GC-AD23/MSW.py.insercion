@@ -21,4 +21,4 @@ Realiza lo siguiente:
 
 **COMANDOS PARA EJECUTAR EL SCRIPT DE PYTHON EN LA TERMINAL:**
 
-`python insercion.py`
+`python exercise.py`
